@@ -33,8 +33,8 @@ categories:
   # - performance-and-workflow
   - scientific-software
   # - simulation
-  # - tools
-  # - visualization
+  - tools
+  - visualization
 
 themes:
   - Information Technology
@@ -206,10 +206,10 @@ themes:
   #     - Ceramics
   #     - Composites
   #     - Concrete and cement
-  #     - Materials characterization
+       - Materials characterization
   #         - Composition and structure
   #         - Magnetic properties
-  #         - Mechanical properties
+           - Mechanical properties
   #         - Thermal properties
   #     - Metals
   #     - Modeling and computational material science
@@ -251,7 +251,7 @@ themes:
   #         - Self-assembly
   #     - Nanofluidics
   #     - Nanomagnetics
-  #     - Nanomaterials
+       - Nanomaterials
   #     - Nanomechanics
   #     - Nanometrology
   #     - Nanophotonics
