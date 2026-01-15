@@ -11,8 +11,6 @@
    <li>analysis routines to extract various material metrics of interest (e.g., Hertz and Oliver-Pharr elastic moduli, dissipation indices, maximum shear stress at first pop-in, stress-strain pairs) from SII and MSI indentation tests.</li>
 </ul>
 
-</p>For full details on the initial version of SpherIndent, please consult the associated peer-reviewed publication[[1]](#references).
-
 ## Table of Contents
 
 * [Setup](#setup)
