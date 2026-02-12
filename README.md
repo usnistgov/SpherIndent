@@ -86,7 +86,7 @@ You are solely responsible for determining the appropriateness of using and dist
 To see the latest statement, please visit: [Copyright, Fair Use, and Licensing Statements for SRD, Data, Software, and Technical Series Publications](https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications#software)
 
 ## Contact
-Please contact Nicolas A. Alderete (nicolas.alderete@nist.gov, [ORCID: 0000-0002-2145-8825](https://orcid.org/0000-0002-2145-8825) or Yvonne B. Gerbig (yvonne.gerbig@nist.gov, [ORCID: 0000-0002-8947-4215](https://orcid.org/0000-0002-8947-4215)) for questions.
+Please contact Nicolas A. Alderete (nicolas.alderete@nist.gov, [ORCID: 0000-0002-2145-8825](https://orcid.org/0000-0002-2145-8825)) or Yvonne B. Gerbig (yvonne.gerbig@nist.gov, [ORCID: 0000-0002-8947-4215](https://orcid.org/0000-0002-8947-4215)) for questions.
 
 ## References
 [1] Alderete, N.A., Gerbig, Y.B., *SpherIndent: An open-source python software for calibration, analysis and visualization of spherical nanoindentation experiments*, (Under review). [doi: 0.18434/Mds2-4051](https://doi.org/0.18434/Mds2-4051).<br>
