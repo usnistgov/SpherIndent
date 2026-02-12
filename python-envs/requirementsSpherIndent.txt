@@ -133,7 +133,7 @@ wcwidth==0.2.14
 webcolors==25.10.0
 webencodings==0.5.1
 websocket-client==1.9.0
-wheel==0.45.1
+wheel==0.46.2
 win_inet_pton==1.1.0
 zipp==3.23.0
 zstandard==0.25.0
