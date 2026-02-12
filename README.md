@@ -67,6 +67,8 @@ Alternatively, you can also run the script from the terminal/command prompt:
 
 python spherIndent.py
 
+The Background.jpg file is not needed to run SpherIndent. Download it and use it with VS Code. Sometimes it works with Spyder, but it does not affect the software.
+
 ## Examples
 Examples are provided in the associated peer-reviewed publication [[1]](#references). The examples leverage the public dataset in [[2]](#references).
 
