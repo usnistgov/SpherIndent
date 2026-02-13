@@ -150,7 +150,7 @@ def retrieveRefProperties(materialNamelookup):
     elif materialNamelookup.lower() in ('fusedsilica','fs','glass','silica'):
         MaterialPropertiesI = [72, 0.17]
     elif materialNamelookup.lower() in ('silicon','si'):
-        MaterialPropertiesI = [165, 0.27]	   
+        MaterialPropertiesI = [130, 0.27]	   
     else:
         MaterialPropertiesI = [0, 0.30]	   
     return MaterialPropertiesI
@@ -4363,6 +4363,7 @@ proceed_btn = tk.Button(root, text="Next", font=("Arial", 12, "bold"), command=p
 about_btn = tk.Button(root, text="About", font=("Arial", 12, "bold"),  command=displayAboutInfo).place(relx=0.5, rely=0.935, anchor="center")
 #Main Loop
 root.mainloop()
+
 
 
 
