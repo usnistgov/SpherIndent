@@ -91,7 +91,7 @@ To see the latest statement, please visit: [Copyright, Fair Use, and Licensing S
 Please contact Nicolas A. Alderete (nicolas.alderete@nist.gov, [ORCID: 0000-0002-2145-8825](https://orcid.org/0000-0002-2145-8825)) or Yvonne B. Gerbig (yvonne.gerbig@nist.gov, [ORCID: 0000-0002-8947-4215](https://orcid.org/0000-0002-8947-4215)) for questions.
 
 ## References
-[1] Alderete, N.A., Gerbig, Y.B., *SpherIndent: An open-source python software for calibration, analysis and visualization of spherical nanoindentation experiments*, (Under review). [doi: 0.18434/Mds2-4051](https://doi.org/0.18434/Mds2-4051).<br>
+[1] Alderete, N.A., Gerbig, Y.B., *SpherIndent: An open-source python software for calibration, analysis and visualization of spherical nanoindentation experiments*, (Under review). [doi: 0.18434/Mds2-4080](https://doi.org/0.18434/Mds2-4080).<br>
 [2] Gerbig, Y.B., Alderete, N.A., *Demonstration dataset for open-source SpherIndent analysis and calibration software for spherical nanoindentation experiments*, NIST Public Data Repository, [doi: 0.18434/Mds2-4051](https://doi.org/0.18434/Mds2-4051).
 
 ## Related Materials
