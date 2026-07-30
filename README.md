@@ -27,19 +27,19 @@
 
 ### Using Conda
 
-1. Create a Conda environment from the provided 'spherindent_env.yml file:
-   conda env create -f spherindent_env.yml -n [your_env_name]
+1. Create a Conda environment from the provided 'SpherIndentEnvironment.yml file:
+   conda env create -f SpherIndentEnvironment.yml -n [your_env_name]
 2. Activate the environment:
    conda activate [your_env_name]
 
 ### Using pip
 
-1. Create a Conda environment from the provided 'spherindent_env.yml file:
+1. Create a Conda environment from the provided 'SpherIndentReqs.txt' file:
    conda env create -n [your_env_name]
 2. Activate the environment:
    conda activate [your_env_name]
 2. Install dependencies:
-   pip install -r requirementsSpherIndent.txt
+   pip install -r SpherIndentReqs.txt
 
 ## Usage
 
@@ -71,6 +71,7 @@ The Background.jpg file is not needed to run SpherIndent. Download it and use it
 
 ## Examples
 Examples are provided in the associated peer-reviewed publication [[1]](#references). The examples leverage the public dataset in [[2]](#references).
+A quick guide and overview of SpherIndent's current capabilities is presented in the SpherIndent_QuickGuide.pdf document.
 
 ## Notes
 Certain commercial equipment, software, instruments, and materials are identified in this document. Such identification does not imply recommendation or endorsement by the National Institute of Standards and Technology, nor does it imply that the products identified are necessarily the best available for the purpose. 
@@ -88,7 +89,7 @@ You are solely responsible for determining the appropriateness of using and dist
 To see the latest statement, please visit: [Copyright, Fair Use, and Licensing Statements for SRD, Data, Software, and Technical Series Publications](https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications#software)
 
 ## Contact
-Please contact Nicolas A. Alderete (nicolas.alderete@nist.gov, [ORCID: 0000-0002-2145-8825](https://orcid.org/0000-0002-2145-8825)) or Yvonne B. Gerbig (yvonne.gerbig@nist.gov, [ORCID: 0000-0002-8947-4215](https://orcid.org/0000-0002-8947-4215)) for questions.
+Please contact Nicolas A. Alderete (nicolas.alderete@nist.gov, [ORCID: 0000-0002-2145-8825](https://orcid.org/0000-0002-2145-8825)) or Yvonne B. Gerbig (yvonne.gerbig@nist.gov, [ORCID: 0000-0002-8947-4215](https://orcid.org/0000-0002-8947-4215)) for questions, comments or suggestions.
 
 ## References
 [1] Alderete, N.A., Gerbig, Y.B., *SpherIndent: An open-source python software for calibration, analysis and visualization of spherical nanoindentation experiments*, (Under review). [doi: 10.11016/j.softx.2026.102894](https://doi.org/10.1016/j.softx.2026.102894).<br>
