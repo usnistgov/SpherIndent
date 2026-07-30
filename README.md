@@ -2,13 +2,13 @@
 
 ## Description
 
-<p style="text-align: justify;">SpherIndent is a modular, open-source software package with graphical user interface (GUI) for analysis of quasi-static spherical indentation experiments conducted in single-step or multi-step loading sequences. </p><p style="text-align: justify;">All components are developed in Python programming language with the GUI built on Tkinter. The software package is essentially constructed using libraries including NumPy, Pandas, SciPy, Sklearn, Matplotlib, and OpenCV. Data storage, from raw to processed and analyzed data (including figures) is handled via Pickle with traceability, efficient retrieval and sharing in mind. SpherIndent only uses tabular data from indentation experiments (time-depth-force), image files from peripheral equipment (i.e., scanning electron microscopes – SEM-), or self-generated files. </p> 
+<p style="text-align: justify;">SpherIndent is a modular, open-source software package with graphical user interface (GUI) for analysis of quasi-static spherical indentation experiments conducted in single-step (SSI) or multi-step (MSI) indentation loading sequences. </p><p style="text-align: justify;">All components are developed in Python programming language with the GUI built on Tkinter. The software package is essentially constructed using libraries including NumPy, Pandas, SciPy, Sklearn, Matplotlib, and OpenCV. Data storage, from raw to processed and analyzed data (including figures) is handled via Pickle with traceability, efficient retrieval and sharing in mind. SpherIndent only uses tabular data from indentation experiments (time-depth-force), image files from peripheral equipment (i.e., scanning electron microscopes – SEM-), or self-generated files. </p> 
 <p style="text-align: justify;">SpherIndent includes:</p> 
 <ul>
   <li>Calibration routines to determine machine compliance based on indentation of reference materials, </li>
   <li>Calibration routines to determine the tip geometry (i.e., tip radius and cone angle) via tip-area function calculation or tip image analysis,</li>
   <li>Data conditioning routines to eliminate thermal drift, compute zero-point offset, and correct for machine compliance effects,</li>
-  <li>Analysis routines to extract various material metrics of interest (e.g., Hertz and Oliver-Pharr elastic moduli, dissipation indices, maximum shear stress at first pop-in, stress-strain pairs) from SII and MSI indentation tests.</li>
+  <li>Analysis routines to extract various material metrics of interest (e.g., Hertz and Oliver-Pharr elastic moduli, dissipation indices, maximum shear stress at first pop-in, stress-strain pairs) from SSI and MSI indentation tests.</li>
 </ul>
 
 ## Table of Contents
